@@ -1,2 +1,1 @@
-Hello!
-Is that works?
+Hello! My name is Maks.
