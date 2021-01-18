@@ -1,6 +1,14 @@
 "use strict";
-const ourPlanet = 'Earth';
-let currentVisitor;
+
+let name = 'Maks';
+
+let age = prompt('Сколько тебе лет?', 100);
+
+alert(`Тебе ${age} лет!`); // Тебе 100 лет!
 
 
-alert("Я JavaScript!")
+let isBoss = confirm("Ты здесь главный?");
+
+alert(isBoss);
+
+// alert("Я JavaScript!")
