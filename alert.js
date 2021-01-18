@@ -1,7 +1,6 @@
 "use strict";
 
-let name = prompt("Enter your name", ['Vasya']);
+let a = prompt("Первое число?", 1);
+let b = prompt("Второе число?", 2);
 
-confirm('Are you sure you are not Vasya?');
-
-alert(`Your name is ${name}, am I right?`);
+alert(+a + +b);
