@@ -1,14 +1,7 @@
 "use strict";
 
-let name = 'Maks';
+let name = prompt("Enter your name", ['Vasya']);
 
-let age = prompt('Сколько тебе лет?', 100);
+confirm('Are you sure you are not Vasya?');
 
-alert(`Тебе ${age} лет!`); // Тебе 100 лет!
-
-
-let isBoss = confirm("Ты здесь главный?");
-
-alert(isBoss);
-
-// alert("Я JavaScript!")
+alert(`Your name is ${name}, am I right?`);
