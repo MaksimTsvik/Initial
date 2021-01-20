@@ -2,12 +2,8 @@
 
 let message;
 
-if (login == 'Сотрудник') {
-    message = 'Привет';
-} else if (login == 'Директор') {
-    message = 'Здравствуйте';
-} else if (login == '') {
-    message = 'Нет логина';
-} else {
-    message = '';
-}
+message = (login == 'Сотрудник') ? 'Привет' :
+    (login == 'Директор') ? 'Здравствуйте' : 'Нет логина';
+
+if (!(age >= 14) && !(age <= 90)) { };
+if (age < 14 && age > 90) { };
