@@ -1,9 +1,13 @@
 "use strict";
 
-let answer = prompt('What is official JS name?', 'type here')
+let message;
 
-if (answer == 'ECMAScript') {
-    alert('Correct!');
+if (login == 'Сотрудник') {
+    message = 'Привет';
+} else if (login == 'Директор') {
+    message = 'Здравствуйте';
+} else if (login == '') {
+    message = 'Нет логина';
 } else {
-    alert('You dunno? ECMAScript!');
+    message = '';
 }
