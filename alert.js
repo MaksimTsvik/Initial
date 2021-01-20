@@ -1,9 +1,21 @@
 "use strict";
 
-let message;
+let login = prompt('Введите логин', '');
+let password;
 
-message = (login == 'Сотрудник') ? 'Привет' :
-    (login == 'Директор') ? 'Здравствуйте' : 'Нет логина';
+if (login == 'Админ') {
+    password = prompt('Введите пароль', '');
 
-if (!(age >= 14) && !(age <= 90)) { };
-if (age < 14 && age > 90) { };
+    if (password == 'Я главный') {
+        alert('Здравствуйте!');
+    } else if (password == null || password == '') {
+        alert('Отменено');
+    } else {
+        alert('Неверный пароль');
+    }
+
+} else if (login == null || login == '') {
+    alert('Отменено');
+} else {
+    alert('Я вас не знаю');
+}
