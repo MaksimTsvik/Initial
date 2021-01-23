@@ -6,20 +6,16 @@ function pow(x, n) {
     return Math.pow(x, n);
 }
 
-let ladder = {
-    step: 0,
-    up() {
-        this.step++;
-        return this;
-    },
-    down() {
-        this.step--;
-        return this;
-    },
-    showStep() {
-        alert(this.step);
-        return this;
-    }
+function Accumulator(startingValue) {
+    this.value = startingValue;
+    this.read = function () {
+        this.value += +prompt('Type a number', '');
+    };
 }
 
-ladder.up().up().down().up().down().showStep();
+let accumulator = new Accumulator(1); // начальное значение 1
+
+accumulator.read(); // прибавит ввод prompt к текущему значению
+accumulator.read(); // прибавит ввод prompt к текущему значению
+
+alert(accumulator.value); // выведет сумму этих значений
