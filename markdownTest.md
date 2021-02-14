@@ -32,7 +32,7 @@ I know how to perform tasks well, able to prioritize quickly and make right deci
 
 ## `Code` example - Recursive *array depth* calculator
 
-```
+``` javascript
 class DepthCalculator {
 
   calculateDepth(array) {
