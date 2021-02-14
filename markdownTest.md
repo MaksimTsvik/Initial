@@ -52,7 +52,10 @@ I know how to perform tasks well, able to prioritize quickly and make right deci
 
 * 2011-2014 Head of mine cleaning ation team.
 * Since 2011 – Bioreactor for decellularization (PoC/Alpha).
-* 2020 – COVID-19 volunteer (protective cover, UV sterilization box, bactericidal UV recirculator).
+* 2020 – COVID-19 volunteer: 
+    * protective cover;
+    * UV sterilization box;
+    * bactericidal UV recirculator.
 
 ## Other
 
