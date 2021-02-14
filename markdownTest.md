@@ -56,6 +56,13 @@ class DepthCalculator {
 };
 ```
 
+## Languages
+
+1. Russian\Belorusian - `native`
+2. English - `B2+`
+3. Mandarin - `A1`
+4. German - `A1`
+
 ## Education
 
 * 9.2009 - 1.2011  **Bachelor degree as Interpreter (English)**\
