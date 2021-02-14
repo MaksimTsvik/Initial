@@ -9,6 +9,26 @@
 * [LinkedIn](www.linkedin.com/in/maksim-tsvik)
 * [GitHub](https://github.com/MaksimTsvik)
 
+## About me
+
+I am a professional Mechanical Engineer and now decided to retrain as a front-end developer.
+Reliable, responsible, easy-going and quick-learner these are main characteristic about me.
+I know how to perform tasks well, able to prioritize quickly and make right decision after weghing up all pros and cons.
+
+## Training
+
+1. [HTML Academy](https://htmlacademy.ru/)
+2. [Learn JS](https://learn.javascript.ru/)
+3. [Codewars](https://www.codewars.com/)
+
+## Skills
+
+* HTML and CSS
+* JavaScript
+* Git
+* Agile/Waterfall
+* SQL
+* Java (Core)
 
 ## Education
 
@@ -34,7 +54,10 @@
 * Since 2011 – Bioreactor for decellularization (PoC/Alpha).
 * 2020 – COVID-19 volunteer (protective cover, UV sterilization box, bactericidal UV recirculator).
 
+## Other
 
-
-
-
+* System thinking.
+* High speed of work.
+* Responsibility for achieving results.
+* Stress resistance.
+* Ability to organize people for the tasks.
