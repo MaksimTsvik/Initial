@@ -25,7 +25,7 @@
     *[Izovac Ltd.](https://www.izovac.com/)*
 * 6.2015 - 6.2017 **Regional representative in the Republic of Belarus**
     *[LLC 'Izmerenie i control'](https://izmerkon.ru/)*
-* 7.2010 - 6.2015 **Chief of Staff (military rank - Captain)**
+* 7.2010 - 6.2015 **Chief of Staff (military rank - Captain)**\
     *[Military unit 31802](https://www.mil.by)*
 
 ## Voluntary experience
